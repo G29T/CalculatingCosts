@@ -166,7 +166,7 @@ h3 {
   font-size: 15px;
   padding: 10px 15px;
   border-radius: 12px;
-  background: linear-gradient(to right, white 70%, red 30%);
+  background: linear-gradient(to right, white 60%, red 40%);
   min-height: 48px;
   min-width: 250px;
   transition: background-color 0.3s ease, color 0.3s ease;
@@ -189,7 +189,7 @@ h3 {
   color: white;
   padding: 10px 15px;
   border-radius: 12px;
-  background: linear-gradient(to right, purple 70%, white 30%) !important;
+  background: linear-gradient(to right, purple 60%, white 40%) !important;
   min-height: 48px;
   min-width: 250px;
   transition: background-color 0.3s ease, color 0.3s ease;
