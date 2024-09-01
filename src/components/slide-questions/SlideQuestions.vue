@@ -2,7 +2,11 @@
   <div class="slider">
     <button v-if="showArrows" @click="prevPage" class="arrow left">‹</button>
     <div class="page">
-      <component :is="currentPageComponent" :key="currentPage"></component>
+      <component
+        :is="currentPageComponent"
+        :key="currentPage"
+        style="margin-left: 10px; margin-right: 10px"
+      ></component>
     </div>
     <button v-if="showArrows" @click="nextPage" class="arrow right">›</button>
   </div>
