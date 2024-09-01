@@ -1,6 +1,6 @@
 # Description
 
-The app can be accessed via https://quiet-pithivier-e17883.netlify.app/
+The app can be accessed via https://quiet-pithivier-e17883.netlify.app
 
 ## Technologies Used
 
