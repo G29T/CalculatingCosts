@@ -5,7 +5,7 @@
       <component
         :is="currentPageComponent"
         :key="currentPage"
-        style="margin-left: 30px; margin-right: 30px"
+        style="margin-left: 40px; margin-right: 40px"
       ></component>
     </div>
     <button v-if="showArrows" @click="nextPage" class="arrow right">›</button>
@@ -60,11 +60,11 @@ export default {
 }
 
 .arrow.left {
-  left: 30px;
+  left: 20px;
 }
 
 .arrow.right {
-  right: 30px;
+  right: 20px;
 }
 
 .page {
