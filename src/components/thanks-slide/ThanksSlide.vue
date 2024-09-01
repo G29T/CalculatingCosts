@@ -34,7 +34,6 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* height: 100vh; */
   text-align: center;
   gap: 20px;
   max-width: 500px;
